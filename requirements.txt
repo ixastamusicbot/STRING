@@ -1,0 +1,7 @@
+motor
+pyromod==2.0.0
+oldpyro==0.1.0
+pyrogram==2.0.106
+python-dotenv==1.0.0
+telethon
+tgcrypto==1.2.5
